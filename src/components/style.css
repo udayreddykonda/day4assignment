@@ -1,0 +1,25 @@
+.heading {
+  color: black;
+  height :40px;
+  width  :400px;
+  background-color: lightcoral;
+
+  
+}
+.tables {
+    border-radius: 20px;
+    
+  width: auto;
+  height: 2000px;
+}
+.table {
+  color: white;
+}
+.title {
+    background-color: lightblue;
+  color: black;
+}
+.content-color {
+
+    color : black;
+}
